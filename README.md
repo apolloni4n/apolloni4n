@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning ... `Java , Javascript, Machine Learning, Cyber Security(tryhackme & certificates& cybertalents)`
+
 -:technologist:  I'm currently studying in Cybertalents scholarship program.
 - 📫 How to reach me: ... `Discord:aihpos#3962` ikramsofiasimone@gmail.com
 - 😄 Pronouns: `She/Her`
