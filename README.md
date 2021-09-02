@@ -4,7 +4,6 @@
 * 🖥 Interested in Cyber Security and Philosophy.
 
 - 🌱 I’m currently learning ... `Nodejs, vuejs, pentesting, Javascript, Machine Learning, Cyber Security(tryhackme & certificates & cybertalents)`
-- My dream is to build approximately Unhackable systems and securise big assets 😄
-I'm currently studying in Cybertalents scholarship program.
+-I'm currently studying in Cybertalents scholarship program.
 - 📫 How to reach me: ...  ikramsofiasimone@gmail.com, ikrambourhim21@gmail.com
 - 😄 Pronouns: `She/Her`
