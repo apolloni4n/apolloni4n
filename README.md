@@ -5,5 +5,5 @@
 
 - 🌱 I’m currently progressing on pentesterlab
 - 🖥  I'm an engineering student in cybersecurity.
-- 📫 How to reach me: (email:  aihpos.tuta.io)
+- 📫 How to reach me: (email:  aihpos@tuta.io)
 - 😄 Pronouns: `She/Her`
