@@ -4,8 +4,6 @@
 **Just a 21 years old student from Morocco**
 * 👦 I'm Ikram or (Sophia)
 * 🖥 Interested in Cyber Security and Philosophy.
-
-- 🌱 I’m currently progressing on pentesterlab
 - 🖥  I'm an engineering student in cybersecurity
 - 🌱 I’m learning English and German
 - 📫 Want to contact me for whatever reason? Discord : Apollon#1126 XD
