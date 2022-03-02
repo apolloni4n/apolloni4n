@@ -1,7 +1,5 @@
 
 ### Hi there 👋
-
-**Just a 21 years old student from Morocco**
 * 👦 I'm Ikram or (Sophia)
 * 🖥 Interested in Cyber Security and Philosophy.
 - 🖥  I'm an engineering student in cybersecurity
