@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-* 👦 I'm Ikram or (Sophia)
+* 👦 I'm Ikram or (apollon)
 * 🖥 Interested in Cyber Security and Philosophy.
 - 🖥  I'm an engineering student in cybersecurity
 - 🌱 I’m learning English and German
