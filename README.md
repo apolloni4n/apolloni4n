@@ -2,10 +2,10 @@
 ### Hi there 👋
 * 👦 I'm Ikram or (apollon)
 * 🖥 Interested in Cyber Security and Philosophy.
-- 🖥  I'm an engineering student in cybersecurity
+- 🖥  I'm a cybersecurity engineer from Morocco
 - 🌱 I’m learning English and German
-- 📫 Want to contact me for whatever reason? Discord : apolloni4n#1126 XD
-- Or (email:  aihpos@tuta.io)
+- 📫 Want to contact me for whatever reason? Discord : dionysian#1126 XD
+- Or (email: ikrambourhim21@gmail.com)
 ![](https://komarev.com/ghpvc/?username=ikramsofia&color=brightgreen)
 </p>
 <p align="center">
